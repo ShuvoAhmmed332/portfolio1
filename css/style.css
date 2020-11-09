@@ -114,13 +114,13 @@
     margin-top: 230px;
     margin-right: 13px;
 }
-.count h1{
+#hompage .count h1 {
   text-align: center;
   color:green;
   text-decoration: none;
   font-size: 47px;
 }
-.count h1 a {
+#hompage .count h1 a {
     color: white;
     text-decoration: none;
     background-color: transparent;
