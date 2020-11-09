@@ -19,6 +19,7 @@
 }
 
          /* hompage section */  
+/* hompage section */  
 #hompage {
 	
 	  background-size: 100% 100%;
@@ -44,12 +45,15 @@
     margin-top: 230px;
     margin-right: 13px;
 }
-#hompage .wrap {
+   
+ #hompage .wrap {
     color: white;
     text-decoration: none;
     font-size: 41px;
     font-weight: 600;
 }  
+   
+   
 #hompage h3 {
     padding-bottom: 11px;
 }
@@ -59,6 +63,8 @@
     width: 145px;
     margin-top: -8px;
 }
+       
+  
        
          /* about section */  
 #about {
